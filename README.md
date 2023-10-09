@@ -1,7 +1,7 @@
 # Currency Coverter using Frankfurt API
 
 ## Author
-Name: <first and last name> Shalimar Chalhoub
+Shalimar Chalhoub
 
 ## Description
 ### Application description
