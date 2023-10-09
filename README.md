@@ -1,4 +1,4 @@
-# Currency Coverter using Franfurt API
+# Currency Coverter using Frankfurt API
 
 ## Author
 Name: <first and last name> Shalimar Chalhoub
