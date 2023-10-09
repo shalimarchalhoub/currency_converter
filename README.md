@@ -1,8 +1,7 @@
-# <project title>
+# Currency Coverter using Franfurt API
 
 ## Author
 Name: <first and last name> Shalimar Chalhoub
-Student ID: <UTS student id> 14071892
 
 ## Description
 ### Application description
